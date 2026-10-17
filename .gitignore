@@ -10,6 +10,7 @@
 /Code/export.cfg
 /Code/export_credentials.cfg
 /Code/*.tmp
+/Code/project.godot
 
 # Imported translations (automatically generated from CSV files)
 /Code/*.translation
