@@ -5,6 +5,8 @@ A step-by-step mathematics solver designed for students from approximately 7th t
 
 Eclyps-Math focuses on showing the complete mathematical procedure instead of simply providing the final answer. Each operation is broken down into clear, sequential steps so students can understand how the solution was obtained.
 
+EclypsMath is an independent project created by EclypsDev/SombraTYM. Forks and modifications are allowed under the terms of the license. Do not claim the original project or its authorship as your own.
+
 ### Current focus
 
 - Linear equations
